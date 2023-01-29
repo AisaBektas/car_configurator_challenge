@@ -16,8 +16,11 @@ The open-source project follows Google’s guidelines for creating components, g
 
 ## Getting Started
 
+Node version: 16.13.0
+NPM version 8.1.0
+
 ```bash
+npm install 
 npm run dev
 # or
-yarn dev
-```
+yarn dev```
